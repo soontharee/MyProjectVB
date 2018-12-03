@@ -1,0 +1,10 @@
+E:\MyProjectVB\VBwork38-1\VBwork38-1\bin\Debug\VBwork38-1.exe
+E:\MyProjectVB\VBwork38-1\VBwork38-1\bin\Debug\VBwork38-1.pdb
+E:\MyProjectVB\VBwork38-1\VBwork38-1\bin\Debug\VBwork38-1.xml
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38_1.frmLab2.resources
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38_1.Resources.resources
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38-1.vbproj.GenerateResource.Cache
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38-1.exe
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38-1.xml
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38-1.pdb
+E:\MyProjectVB\VBwork38-1\VBwork38-1\obj\x86\Debug\VBwork38_1.frmLab1.resources
